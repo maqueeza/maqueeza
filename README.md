@@ -34,7 +34,10 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
    </a>
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=maqueeza&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=maqueeza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=maqueeza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <picture>
