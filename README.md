@@ -35,7 +35,7 @@
    </a>
 
 
-```html
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -49,7 +49,7 @@
     alt="Bomberman Contribution Graph"
     src="https://raw.githubusercontent.com/maqueeza/maqueeza/output/bomberman-contribution-graph.svg">
 </picture>
-```
+
 
 
 
