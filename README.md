@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Maqueza</h1>
+<h1 align="center">What's up? 👋 I'm Maqueza</h1>
 
 ###
 
