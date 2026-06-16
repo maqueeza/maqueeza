@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I am a systems development student at Senai, Santa Catarina, Brazil. Currently, I am focusing on TypeScript and HTML/CSS. I will graduate in the second semester of 2027.</p>
+<p align="left">I'm a Systems Development student at SENAI in Santa Catarina, Brazil.
+Currently, I'm focusing on TypeScript, Java and modern web development.
+I'm expected to graduate in the second semester of 2027.</p>
 
 ###
 
@@ -26,18 +28,16 @@
 
 ###
 
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/dieni-marques-012814196/?isSelfProfile=true" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-   <a href="https://www.instagram.com/maqueeza" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-   </a>
+  <img src="https://streak-stats.demolab.com/?user=maqueeza&theme=dark&hide_border=false" />
+  <br>
 
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=maqueeza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=maqueeza&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maqueeza&layout=compact&theme=dark&hide_border=false" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maqueeza/maqueeza/pacman-output/pacman-contribution-graph-dark.svg">
@@ -48,4 +48,11 @@
 
 
 
-### 📫 Connect with me
+<h2 align="center">📫 Connect with me</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dieni-marques-012814196/?isSelfProfile=true" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+   <a href="https://www.instagram.com/maqueeza" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+   </a>
