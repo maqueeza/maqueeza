@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Systems Development student at SENAI in Santa Catarina, Brazil.
+<p align="left">I'm a Systems Development student at SENAI in Santa Catarina, Brasil.
 Currently, I'm focusing on TypeScript, Java and modern web development.
 I'm expected to graduate in the second semester of 2027.</p>
 
