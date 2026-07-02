@@ -24,13 +24,12 @@
 
 <br>
 
+
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=maqueeza&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-      </td>
-      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maqueeza&theme=github_dark" />
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maqueeza&theme=dark" alt="Most Used Languages" />
       </td>
     </tr>
